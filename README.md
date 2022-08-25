@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeffrey Church
 - 👀 I’m interested in Computer Science, Video Games industry, Movie/TV industry, Sports induxstry.
-- 🌱 I’m currently learning multiple languages and concepts through my studies at the Unoversity of Nebraska-Lincoln. I am proficeint with C and Java. I am currently
--     studying C++, C#.NET, JavaScript, and Python
+- 🌱 I’m currently learning multiple languages and concepts through my studies at the Unoversity of Nebraska-Lincoln. 
+-     I am proficeint with C and Java. I am currently studying C++, C#.NET, JavaScript, and Python
 - 📫 How to reach me: jchurch2221@gmail.com (include github in the subject line)
 
 <!---
